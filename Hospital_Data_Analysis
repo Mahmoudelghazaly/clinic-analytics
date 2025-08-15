@@ -1,13 +1,1 @@
-cd "D:\Final Project-Pythone"
-
-git config --global user.name "Mahmoud Elghazaly"
-git config --global user.email "mahmoudelghazaly700@gmail.com"
-
-git init
-git add .
-git commit -m "Initial commit - Clinic Data Analysis Project"
-
-git remote add origin https://github.com/MahmoudElghazaly/clinic-data-analysis-and-forecasting.git
-git branch -M main
-git push -u origin main
 
